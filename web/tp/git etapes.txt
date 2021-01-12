@@ -1,0 +1,20 @@
+un nouveau repository:
+1 creer un nouveau repository sur votre github
+2 choisir le dossier de travail puis ouvrir git bash here
+---------------------------------------
+- git init 
+- git add .
+- git commit -m "second commit"
+- git remote add origin https://github.com/ibrahimTN/TP-1-bootstrap
+- git push --set-upstream origin master
+--------------------------------------------------------------------------------
+modification ou ajout des modification sur votre projet
+- git add .
+- git commit -m " modification du background"
+- git push
+--------------------------------------------------------
+pour telecharger un repository de votre github  sur votre ordinateur
+
+- choisir un emplacement 
+- ouvrir git bash here
+- git clone https://github.com/ibrahimTN/TP-1-bootstrap 
